@@ -6,3 +6,6 @@ Group: Pew Pew Sounds
 Titel: CNN 2D Sound Classifier 
 
 Authors: Alexander Løvig Borg, Andreas Løvig Borg, Anton Sig Egholm
+
+Python version: 3.10.11
+
