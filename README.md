@@ -18,12 +18,6 @@
 
   <h3 align="center">CNN 2D Sound Classifier by Pew Pew Sounds</h3>
 
-  <p align="center">
-    Read our report here:
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs</strong></a>
-    <br />
-  </p>
 </div>
 
 
@@ -31,18 +25,12 @@
 <!-- ABOUT THE PROJECT -->
 ## Oticon Audio Explorers Challenge 2023
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-
+The CNN architecture used in this implementation consists of two convolutional
+layers, each followed by a max-pooling layer and dropout for regularisation. After
+the convolutional layers, the output is flattened and passed through a fully connected
+layer with 256 units and a dropout layer. Finally, a softmax activation function is
+applied to the output layer, which consists of as many units as there are classes in
+the dataset.
 
 <!-- GETTING STARTED -->
 ## Getting Started
