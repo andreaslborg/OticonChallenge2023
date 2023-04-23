@@ -5,7 +5,7 @@
     <img src="oticon_header.png" alt="Logo">
   </a>
 
-  <h3 align="center">CNN 2D Sound Classifier by Pew Pew Sounds</h3>
+  <h3 align="center">2D CNN Sound Classifier by Pew Pew Sounds</h3>
 
 </div>
 
