@@ -11,7 +11,7 @@
 
 ## Oticon Audio Explorers Challenge 2023
 
-The CNN architecture used in this implementation consists of two convolutional layers, each followed by a max-pooling layer and dropout for regularisation. After the convolutional layers, the output is flattened and passed through a fully connected layer with 64 units and a dropout layer. Finally, a softmax activation function is applied to the output layer, which consists of as many units as there are classes in the dataset.
+The CNN architecture used in this implementation consists of two convolutional layers, each followed by a max-pooling layer and dropout for regularisation. After the convolutional layers, the output is flattened and passed through a fully connected layer with 64 units and a dropout layer. Finally, a softmax activation function is applied to the output layer, which consists of as many units as there are classes in the dataset
 
 <!-- GETTING STARTED -->
 ## Getting Started
