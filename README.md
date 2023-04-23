@@ -53,9 +53,13 @@ Install python, we used version 3.10.11, and the packages listed in prerequisite
    ```sh
    pip install numpy tensorflow scikit-learn
    ```
-3. Run and train the model
+3. Run and train the model on all the data
    ```sh
-   python .\CNN2D_functions_100.py
+   python .\CNN2D_100.py
+   ```
+4. Run and train the model on 70% of the data and validate on 30%
+   ```sh
+   python .\CNN2D_70.py
    ```
 
 
