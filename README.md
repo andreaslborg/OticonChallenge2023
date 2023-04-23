@@ -49,6 +49,6 @@ Install python, we used version 3.10.11, and the packages listed below:
 <!-- Authors -->
 ## Authors
 
-* <a href="https://github.com/aborg123">Alexander Løvig Borg</a>
-* <a href="https://github.com/andreaslborg">Andreas Løvig Borg</a>
-* <a href="https://github.com/Anantonon">Anton Sig Egholm</a>
+* <a href="https://www.linkedin.com/in/alexanderlborg/">Alexander Løvig Borg</a>
+* <a href="https://www.linkedin.com/in/andreaslborg/">Andreas Løvig Borg</a>
+* <a href="https://www.linkedin.com/in/anton-egholm/">Anton Sig Egholm</a>
