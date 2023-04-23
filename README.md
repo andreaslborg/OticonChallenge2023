@@ -1,15 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-
-<!-- PROJECT LOGO -->
+<!-- ABOUT THE PROJECT -->
 <br />
 <div align="center">
   <a href="">
@@ -20,9 +9,6 @@
 
 </div>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## Oticon Audio Explorers Challenge 2023
 
 The CNN architecture used in this implementation consists of two convolutional
@@ -35,9 +21,7 @@ the dataset.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Install python, we used version 3.10.11, and the packages listed in prerequisites.
-
-### Prerequisites
+Install python, we used version 3.10.11, and the packages listed below:
 
 * numpy
 * tensorflow
@@ -61,7 +45,6 @@ Install python, we used version 3.10.11, and the packages listed in prerequisite
    ```sh
    python .\CNN2D_70.py
    ```
-
 
 <!-- Authors -->
 ## Authors
